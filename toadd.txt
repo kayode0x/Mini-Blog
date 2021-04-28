@@ -1,0 +1,7 @@
+1 Add search bar 
+2 Add Tags and let users filter blogs by tags
+3 Don't forget to add tags during blog creation
+4 Enable blog editing and deleting
+5 Add a navigation to liked blogs posts (api get, then map all liked posts liked: true)
+6 Show a button to unlike and like back
+7 Sort by latest
