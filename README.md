@@ -11,7 +11,7 @@ run `npm start` to start the app
 run `npm run server` to start the db.json server
 
 # Some images.
-![image1](screenshots/IMG_4929.PNG)
+![image1](/screenshots/IMG_4929.PNG)
 
 ![image2](screenshots/IMG_4931.PNG)
 
