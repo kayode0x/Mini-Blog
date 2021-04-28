@@ -11,14 +11,14 @@ run `npm start` to start the app
 run `npm run server` to start the db.json server
 
 # Some images.
-![image1](https://ibb.co/jyb3PBV)
+![image1](screenshots/IMG_4929.PNG)
 
-![image2](https://ibb.co/93gq7Jw)
+![image2](screenshots/IMG_4931.PNG)
 
-![image3](https://ibb.co/0y8qC2D)
+![image3](screenshots/IMG_4932.PNG)
 
-![image4](https://ibb.co/31zwBFX)
+![image4](screenshots/IMG_4933.PNG)
 
-![image5](https://ibb.co/5FtXPdT)
+![image5](screenshots/IMG_4934.PNG)
 
-![image6](https://ibb.co/s1kvQMM)
+![image6](screenshots/IMG_4935.PNG)
