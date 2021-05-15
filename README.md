@@ -2,7 +2,7 @@
 A lightweight blogging website built with react. 
 
 # 1
-run `npm install` to load react dependencies
+run `npm install` to install the dependencies
 
 # 2 
 run `npm start` to start the app
